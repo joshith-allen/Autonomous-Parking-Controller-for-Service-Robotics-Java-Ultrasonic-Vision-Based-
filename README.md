@@ -26,9 +26,9 @@ The system enables the robot to:
    Scanning Mode - Measures and evaluates parking slot
 5. Collision Avoidance
    Uses front ultrasonic sensor to:
-   - Stop when obstacle detected in the pathway and resumes motion when it cleared
+   - Stop when obstacle detected in the pathway and resumes motion when it cleared.
    Uses side ultrasonic sensor to:
-   - To maintain a clearance from right side of its pathway
+   - To maintain a clearance from right side of its pathway.
 6. Parking Routine
    Performs a sequence of :
    i)Reverse Movement
